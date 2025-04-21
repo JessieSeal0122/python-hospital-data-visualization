@@ -73,8 +73,6 @@ All charts will be saved in the `/visualizations/` folder, e.g.:
 - `Hospital_Distribution_Table_YYYYMMDD.png`  
 - `Hospital_Distribution_Pie_YYYYMMDD.png`  
 
-> *Samples not included in this repo due to file size or privacy.*
-
 ---
 
 ## 🗂 Data Source
