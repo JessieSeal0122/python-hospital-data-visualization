@@ -1,0 +1,36 @@
+[2025-04-21 22:01:50] Processing: Medical_Centers (URL: https://info.nhi.gov.tw/IODE0000/IODE0000S09?id=325)
+[2025-04-21 22:02:02] Download button clicked. Downloading file...
+[2025-04-21 22:02:07] File renamed to: /Users/jessieseal0122/Desktop/Health_Care_Institutions/csv/Medical_Centers_20250421.csv
+[2025-04-21 22:02:07] Medical_Centers 沒有昨天的檔案，直接保存今天的檔案
+[2025-04-21 22:02:07] 檔案已轉存為 Excel：/Users/jessieseal0122/Desktop/Health_Care_Institutions/excel/Medical_Centers_20250421.xlsx
+[2025-04-21 22:02:07] Processing: Regional_Hospitals (URL: https://info.nhi.gov.tw/IODE0000/IODE0000S09?id=326)
+[2025-04-21 22:02:11] Error occurred: Message: element click intercepted: Element <a href="https://info.nhi.gov.tw/api/iode0000s01/Dataset?rId=A21030000I-D21002-005" title="CSV下載檔案" class="button_style bg-csv">...</a> is not clickable at point (445, 301). Other element would receive the click: <div class="vld-background" style="backdrop-filter: blur(2px);"></div>
+  (Session info: chrome=135.0.7049.96)
+Stacktrace:
+0   chromedriver                        0x0000000101564448 chromedriver + 6149192
+1   chromedriver                        0x000000010155bb0a chromedriver + 6114058
+2   chromedriver                        0x0000000100fece80 chromedriver + 417408
+3   chromedriver                        0x00000001010453e0 chromedriver + 779232
+4   chromedriver                        0x0000000101043241 chromedriver + 770625
+5   chromedriver                        0x00000001010408e2 chromedriver + 760034
+6   chromedriver                        0x000000010103ffe0 chromedriver + 757728
+7   chromedriver                        0x00000001010325ad chromedriver + 701869
+8   chromedriver                        0x0000000101064792 chromedriver + 907154
+9   chromedriver                        0x0000000101031f28 chromedriver + 700200
+10  chromedriver                        0x000000010106494e chromedriver + 907598
+11  chromedriver                        0x000000010108baca chromedriver + 1067722
+12  chromedriver                        0x0000000101064563 chromedriver + 906595
+13  chromedriver                        0x0000000101030955 chromedriver + 694613
+14  chromedriver                        0x00000001010315b1 chromedriver + 697777
+15  chromedriver                        0x0000000101521f00 chromedriver + 5877504
+16  chromedriver                        0x0000000101525df1 chromedriver + 5893617
+17  chromedriver                        0x00000001014fc344 chromedriver + 5722948
+18  chromedriver                        0x000000010152680b chromedriver + 5896203
+19  chromedriver                        0x00000001014eaac4 chromedriver + 5651140
+20  chromedriver                        0x0000000101549918 chromedriver + 6039832
+21  chromedriver                        0x0000000101549ae0 chromedriver + 6040288
+22  chromedriver                        0x000000010155b6d1 chromedriver + 6112977
+23  libsystem_pthread.dylib             0x00007ff80554b1d3 _pthread_start + 125
+24  libsystem_pthread.dylib             0x00007ff805546bd3 thread_start + 15
+
+[2025-04-21 22:02:11] Process completed.
