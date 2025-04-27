@@ -95,4 +95,3 @@ This repository is for educational and demonstration purposes only.
 
 This project is licensed under the MIT License.  
 Feel free to reuse or modify the code with proper attribution.
-```
